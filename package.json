@@ -1,0 +1,39 @@
+{
+  "name": "seinjs-my-tiny-program-component",
+  "version": "0.8.4",
+  "description": "A ali tiny program component for using Sein.js.",
+  "main": "seinjs.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:SeinJS/Sein.js.git"
+  },
+  "keywords": [
+    "Game engine",
+    "Sein.js",
+    "SeinJS",
+    "Tiny Program"
+  ],
+  "authors": [
+    {
+      "name": "Tianyu Dai (dtysky)",
+      "email": "dtysky@outlook.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "http://github.com/SeinJS/Sein.js/issues"
+  },
+  "files": [
+    "README.md",
+    "seinjs.js",
+    "seinjs.json",
+    "seinjs.acss",
+    "seinjs.axml",
+    "injectCanvas.js",
+    "LICENCE"
+  ],
+  "homepage": "http://github.com/SeinJS/Sein.js#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
